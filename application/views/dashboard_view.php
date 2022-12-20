@@ -32,6 +32,7 @@
                   <li class="active"><a href="#">Dashboard</a></li>
                   <li><a href="#">Pages</a></li>
                   <li><a href="#">Media</a></li>
+                  <li><a href="#">login</a></li>
                 <!--ACCESS MENUS FOR AUTHOR-->
                 <?php else:?>
                   <li class="active"><a href="#">Dashboard</a></li>
